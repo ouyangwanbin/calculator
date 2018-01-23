@@ -1,2 +1,2 @@
 # calculator
-Basic Calculator support (+,-,*,/)
+Basic Calculator support (+,-,*,/,(,))
